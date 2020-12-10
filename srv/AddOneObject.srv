@@ -1,0 +1,5 @@
+string shape
+float32[] position
+float32[] orientation
+float32[] color
+---
