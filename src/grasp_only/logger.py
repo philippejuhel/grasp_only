@@ -6,6 +6,9 @@ import cv2
 import torch 
 # import h5py 
 
+# Ajout d'un commentaire
+a=3
+
 class Logger():
 
     def __init__(self, logging_directory):
